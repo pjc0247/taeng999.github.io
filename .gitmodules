@@ -1,0 +1,3 @@
+[submodule "miniminigame"]
+	path = miniminigame
+	url = https://github.com/taeng999/miniminigame
